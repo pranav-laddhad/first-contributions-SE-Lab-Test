@@ -52,6 +52,7 @@ Zhiyuan Zhao
 - [wal-058](https://github.com/wal-058) **Can't believe it took me this long to start with OSS. Hi, I'm Waleed. Hopefully you are doing well, fellow coder, whoever and whereever you may be :D**
 Elisheva R
 -[Aman Jha](https://github.com/i-aman-jha/) **______________This is my first Contribution__________**
+Pranav Laddhad
 -[Avinash KT]****Excited *****************
 - [Kushal Khivasara](https://github.com/its-kushal) **He contributed to this project**
 -[PrabhatGhimire](https://github.com/PrabhatGhm7)**Tutorial on contribution**
